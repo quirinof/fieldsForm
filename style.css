@@ -24,7 +24,7 @@ body::before {
   background: #121214;
 }
 
-.page {
+.page, footer {
   width: 736px;
   margin: 0 auto;
 }
@@ -186,4 +186,43 @@ fieldset legend {
 
 .checkbox-wrapper input:focus  + label::before{
   outline: 2px solid black;
+}
+
+.separator {
+  border: 1px solid #D6D6D6;
+}
+
+footer {
+  height: 136px;
+  border-radius: 0px 0px 8px 8px;
+  background: #F0F0F4;
+}
+
+footer input {
+  border: none;
+  border-radius: 8px;
+  background: #04D361;
+  
+  width: 608px;
+  height: 56px;
+
+  margin: 40px 64px;
+  padding: 15px 40px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+
+  color: #FFF;
+  font-family: 'Archivo', sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 26px
+}
+
+footer input:hover {
+  background: #02b351;
+  border: 1;
+  color: #FAFAFC;
 }
