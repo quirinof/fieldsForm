@@ -1,4 +1,4 @@
-<h1 align="center"> Rocket.sect </h1>
+<h1 align="center"> Event Form </h1>
 
 <p align="center">
 Explorer - Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -32,4 +32,4 @@ Consiste em um formulário, onde foi trabalhado alguns conceitos de HTML e CSS e
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/EdKjPWjC8ZlbnH4XzTObv2/Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/sBda3gs6uk4x8hVFApRDzy/Explorer-Stage-03-Projeto-01-(Copy)?type=design&node-id=1%3A28&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
