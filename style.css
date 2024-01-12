@@ -221,7 +221,3 @@ footer .button:hover {
   border: 1;
   color: #FAFAFC;
 }
-
-input:invalid {
-  border: 1px solid red;
-}
